@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+#change file for git testing
 class About
   cattr_reader :plugin_stat_groups
 
@@ -164,3 +164,4 @@ class About
     @category_mods_limit = number
   end
 end
+
