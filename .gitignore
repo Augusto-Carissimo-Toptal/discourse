@@ -66,3 +66,5 @@ openapi/*
 
 # Cached License Data Files
 /.licenses
+
+/git_testing
