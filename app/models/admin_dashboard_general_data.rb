@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+#for testing
 class AdminDashboardGeneralData < AdminDashboardData
   def get_json
     days_since_update =
