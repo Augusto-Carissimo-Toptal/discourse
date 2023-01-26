@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-
+#for git testing
 class About
   cattr_reader :plugin_stat_groups
 
