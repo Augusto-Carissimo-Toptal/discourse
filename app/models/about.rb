@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 #ammend 1
+#amend
 
 class About
   cattr_reader :plugin_stat_groups
